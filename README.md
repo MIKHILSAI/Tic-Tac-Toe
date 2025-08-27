@@ -33,16 +33,6 @@ git clone https://github.com/MIKHILSAI/Tic-Tac-Toe.git
 
 2. Open `index.html` in your browser
 
-## File Structure
-
-Tic-Tac-Toe/
-├── index.html      # Main HTML file
-├── style.css       # Styles and responsive design
-├── app.js          # Game logic and functionality
-├── hello.svg       # Game logo
-├── bg.jpg          # Background image
-└── favicon.ico     # Website favicon
-
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
